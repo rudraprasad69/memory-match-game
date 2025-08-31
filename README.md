@@ -18,8 +18,7 @@ Play the live version of the game here:
 [memory-match-app.netlify.app/](https://memory-match-app.netlify.app/)
 
 ---
-
-## 📸 Preview  
+  
 ## 📸 Preview  
 
 <div align="center" style="border: 2px solid #333; border-radius: 10px; padding: 10px; max-width: 100%; overflow-x: auto; white-space: nowrap; display: flex; gap: 10px;">
