@@ -77,7 +77,6 @@ Play the live version of the game here:
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
   </a>
-  
   <br>
 
   <!-- Framer Motion -->
