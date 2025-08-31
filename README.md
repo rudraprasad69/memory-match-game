@@ -20,12 +20,46 @@ Play the live version of the game here:
 ---
 
 ## 📸 Preview  
-![WhatsApp Image 2025-08-30 at 18 51 33_ca61629f](https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8)
-![WhatsApp Image 2025-08-30 at 18 51 14_9fb68435](https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de)
-![WhatsApp Image 2025-08-31 at 10 25 48_0c0825a3](https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995)
-![WhatsApp Image 2025-08-31 at 10 27 49_18ec2cc8](https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6)
-![WhatsApp Image 2025-08-31 at 10 28 45_a422cf71](https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a)
 
+<div align="center">
+  <div style="max-width: 900px; border: 2px solid #333; border-radius: 10px; padding: 10px; position: relative; overflow: hidden;">
+    
+    <!-- Slides -->
+    <div class="slides" style="display: flex; transition: transform 0.5s ease-in-out; width: 500%;">
+      <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="900" style="flex: 0 0 100%;" />
+      <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="900" style="flex: 0 0 100%;" />
+      <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="900" style="flex: 0 0 100%;" />
+      <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="900" style="flex: 0 0 100%;" />
+      <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="900" style="flex: 0 0 100%;" />
+    </div>
+
+    <!-- Navigation buttons -->
+    <button onclick="prevSlide()" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #333; color: white; border: none; border-radius: 50%; padding: 10px; cursor: pointer;">⬅️</button>
+    <button onclick="nextSlide()" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #333; color: white; border: none; border-radius: 50%; padding: 10px; cursor: pointer;">➡️</button>
+
+  </div>
+</div>
+
+<script>
+  let currentIndex = 0;
+  const slides = document.querySelector(".slides");
+  const totalSlides = slides.children.length;
+
+  function showSlide(index) {
+    if (index < 0) index = totalSlides - 1;
+    if (index >= totalSlides) index = 0;
+    currentIndex = index;
+    slides.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  function nextSlide() {
+    showSlide(currentIndex + 1);
+  }
+
+  function prevSlide() {
+    showSlide(currentIndex - 1);
+  }
+</script>
 
 
 
