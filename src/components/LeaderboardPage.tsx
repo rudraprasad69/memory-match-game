@@ -23,14 +23,8 @@ const LeaderboardPage: React.FC = () => {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8 flex justify-center relative">
-      <button
-        onClick={handleClose}
-        className="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl font-bold"
-      >
-        ❌
-      </button>
-      <Leaderboard scores={leaderboard} />
+    <div className="container mx-auto px-4 py-8 flex justify-center">
+      <Leaderboard scores={leaderboard} onClose={handleClose} />
     </div>
   );
 };
