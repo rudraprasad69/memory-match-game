@@ -21,33 +21,67 @@ Play the live version of the game here:
 
 ## 📸 Preview  
 
-<div align="center">
-
-  <!-- Carousel container -->
-  <div style="max-width: 900px; border: 2px solid #333; border-radius: 10px; padding: 10px; overflow: hidden;">
-
-    <div id="slide1">
-      <img src="https://github.com/user-attachments/assets/438d4f94-0f57-4321-a693-77f2bb844229" width="900" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>File Upload with Preview</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .container {
+      max-width: 400px;
+      margin: auto;
+    }
+    .preview {
+      margin-top: 15px;
+    }
+    .preview img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-top: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Upload File with Preview</h2>
+    <input type="file" id="fileInput" accept="image/*">
+    <div class="preview" id="preview">
+      <p>No file selected</p>
     </div>
-    <div id="slide2" style="display:none;">
-      <img src="https://github.com/user-attachments/assets/5c079264-47b0-4c49-a738-432e1fde6b85" width="900" />
-    </div>
-    <div id="slide3" style="display:none;">
-      <img src="https://github.com/user-attachments/assets/98e5285e-e103-41df-b44c-e6a78891af91" width="900" />
-    </div>
-    <div id="slide4" style="display:none;">
-      <img src="https://github.com/user-attachments/assets/1b6b151d-540f-4888-a0e7-3f0e3bf0e794" width="900" />
-    </div>
-
-    <p>
-      <a href="#slide1">⬅️</a> 
-      <a href="#slide2">➡️</a>
-      <a href="#slide3">➡️</a>
-      <a href="#slide4">➡️</a>
-    </p>
   </div>
 
-</div>
+  <script>
+    const fileInput = document.getElementById("fileInput");
+    const preview = document.getElementById("preview");
+
+    fileInput.addEventListener("change", function () {
+      preview.innerHTML = ""; 
+
+      const file = fileInput.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function (e) {
+          const img = document.createElement("img");
+          img.src = e.target.result;
+          preview.appendChild(img);
+        };
+        reader.readAsDataURL(file);
+      } else {
+        preview.innerHTML = "<p>No file selected</p>";
+      }
+    });
+  </script>
+</body>
+</html>
 
 ---
 
