@@ -37,39 +37,40 @@ Play the live version of the game here:
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="left" style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
 
   <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-align: center;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
     <div style="color: white; font-size: 14px; margin-top: 5px;">React</div>
   </a>
 
   <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: center;">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="filter: brightness(0) invert(1);" />
     <div style="color: white; font-size: 14px; margin-top: 5px;">Next.js</div>
   </a>
 
   <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: center;">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
     <div style="color: white; font-size: 14px; margin-top: 5px;">Vite</div>
   </a>
 
   <!-- Framer Motion -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" style="text-align: center;">
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="50" height="50" style="filter: invert(1);" />
     <div style="color: white; font-size: 14px; margin-top: 5px;">Framer Motion</div>
   </a>
 
   <!-- TailwindCSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: center;">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/>
     <div style="color: white; font-size: 14px; margin-top: 5px;">TailwindCSS</div>
   </a>
 
 </div>
+
 
 
 
