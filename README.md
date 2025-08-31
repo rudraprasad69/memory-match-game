@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/issues/rudraprasad69/Store-Rating-Platform" alt="Issues">
 </p>
 
-> A traditional memory game involving playing cards. The objective is to locate pairs of cards that have matching images or symbols. Built with a modern frontend stack including React, Tailwind CSS, and Framer Motion for smooth animations.
+> A traditional memory game involving playing cards. The objective is to locate pairs of cards that have matching images or symbols—built with a modern frontend stack including React, Tailwind CSS, and Framer Motion for smooth animations.
 
 ## 🚀 Live Demo
 
@@ -39,9 +39,13 @@ Play the live version of the game here:
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
+  
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
+  
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40"/> </a>
 </p>
 
