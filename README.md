@@ -57,20 +57,17 @@ Play the live version of the game here:
 
 Getting started is simple! Follow these steps to play the game:
 
-1.  **Begin the Game:**
-    * Press the **"Start"** button to shuffle the cards and begin a new round.
-
-2.  **Flip a Card:**
+1.  **Flip a Card:**
     * Click on any card that is face down to reveal the image on it.
 
-3.  **Find the Match:**
+2.  **Find the Match:**
     * Now, click on another face-down card to see if it's a matching pair.
 
-4.  **Check the Result:**
+3.  **Check the Result:**
     * **If the cards match,** they will stay face-up. You're one step closer to winning!
     * **If they don't match,** both cards will flip back over. Try to remember their positions for your next turn!
 
-5.  **Win the Game:**
+4.  **Win the Game:**
     * Continue matching pairs until all the cards are face-up.
     * Try to finish with the fewest moves to achieve a new high score!
 
