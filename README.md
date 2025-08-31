@@ -26,14 +26,14 @@ Play the live version of the game here:
 -   **Dynamic Difficulty:** The game's difficulty dynamically adjusts and increases as the player successfully advances.
 
 ### User Interface (UI)
--   [cite_start]**Clean & Responsive Design:** The UI is clean, uncluttered, and fully responsive, adapting seamlessly to various screen sizes. [cite: 4]
--   [cite_start]**Engaging Micro-interactions:** Features subtle hover states, glowing elements, and sound effects to enhance the user experience. [cite: 4]
--   [cite_start]**Mobile-Friendly:** The design is optimized for mobile devices with careful consideration for touch interactions. [cite: 4]
+-   **Clean & Responsive Design:** The UI is clean, uncluttered, and fully responsive, adapting seamlessly to various screen sizes. 
+-   **Engaging Micro-interactions:** Features subtle hover states, glowing elements, and sound effects to enhance the user experience. 
+-   **Mobile-Friendly:** The design is optimized for mobile devices with careful consideration for touch interactions.
 
 ### Data & Optional Enhancements
--   [cite_start]**High Score Persistence:** The player's all-time highest score is persistently stored in the browser using `localStorage`. [cite: 5]
--   [cite_start]**JSON Leaderboard (Optional):** Includes a simulated JSON leaderboard to track and display high scores. [cite: 6]
--   [cite_start]**Pause/Resume (Optional):** A pause and resume function allows players to temporarily halt their progress. [cite: 6]
+-   **High Score Persistence:** The player's all-time highest score is persistently stored in the browser using `localStorage`. 
+-   **JSON Leaderboard (Optional):** Includes a simulated JSON leaderboard to track and display high scores. 
+-   **Pause/Resume (Optional):** A pause and resume function allows players to temporarily halt their progress. 
 
 ## 🛠️ Tech Stack
 
@@ -45,9 +45,9 @@ Play the live version of the game here:
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40"/> </a>
 </p>
 
--   [cite_start]**Core:** React (via Vite or Next.js) [cite: 2]
--   [cite_start]**Styling:** Tailwind CSS [cite: 2]
--   [cite_start]**Animations:** Framer Motion or GSAP [cite: 2]
+-   **Core:** React (via Vite or Next.js) 
+-   **Styling:** Tailwind CSS 
+-   **Animations:** Framer Motion or GSAP 
 
   ## 🎮 How to Play
 
@@ -107,5 +107,3 @@ You must have [Node.js](https://nodejs.org/en/) (v18.17 or later) installed.
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-*(Action: Create a file named `LICENSE` and add the MIT License text.)*
