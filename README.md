@@ -22,17 +22,17 @@ Play the live version of the game here:
 ## 📸 Preview  
 ## 📸 Preview  
 
-<div align="center" style="border: 2px solid #333; border-radius: 10px; padding: 10px; max-width: 900px; overflow-x: auto; white-space: nowrap;">
+<div align="center" style="border: 2px solid #333; border-radius: 10px; padding: 10px; max-width: 100%; overflow-x: auto; white-space: nowrap; display: flex; gap: 10px;">
 
-  <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="900" style="margin: 10px; border-radius: 8px;" />
-  <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="900" style="margin: 10px; border-radius: 8px;" />
-  <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="900" style="margin: 10px; border-radius: 8px;" />
-  <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="900" style="margin: 10px; border-radius: 8px;" />
-  <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="900" style="margin: 10px; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="300" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="300" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="300" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="300" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="300" style="border-radius: 8px;" />
 
 </div>
 
-<p align="center">➡️ Swipe to see more</p>
+<p align="center">➡️ Scroll to see more</p>
 
 ---
 
