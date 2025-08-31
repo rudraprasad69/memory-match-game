@@ -17,6 +17,30 @@
 Play the live version of the game here:
 [memory-match-app.netlify.app/](https://memory-match-app.netlify.app/)
 
+---
+
+## 📸 Preview
+
+<div align="center" style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 80%; max-width: 800px;">
+
+  <!-- Image Container -->
+  <img src="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064" alt="Preview 1" width="90%" id="preview-img">
+
+  <br><br>
+
+  <!-- Navigation -->
+  <p>
+    <a href="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064">
+      <b>➡️ Next</b>
+    </a>
+  </p>
+
+</div>
+
+*(You can click ➡️ to navigate through more screenshots in sequence.)*
+
+---
+
 ## ✨ Features
 
 ### Gameplay Loop
@@ -35,6 +59,8 @@ Play the live version of the game here:
 -   **JSON Leaderboard (Optional):** Includes a simulated JSON leaderboard to track and display high scores. 
 -   **Pause/Resume (Optional):** A pause and resume function allows players to temporarily halt their progress. 
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="left" style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
@@ -42,29 +68,24 @@ Play the live version of the game here:
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-    <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
   <br>
 
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
-    <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
   <br>
 
   <!-- Framer Motion -->
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="50" height="50" style="filter: invert(1);" />
-    <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
   <br>
-
 
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/>
-    <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
 
 </div>
@@ -74,7 +95,9 @@ Play the live version of the game here:
 -   **Styling:** Tailwind CSS 
 -   **Animations:** Framer Motion or GSAP 
 
-  ## 🎮 How to Play
+---
+
+## 🎮 How to Play
 
 Getting started is simple! Follow these steps to play the game:
 
@@ -91,6 +114,8 @@ Getting started is simple! Follow these steps to play the game:
 4.  **Win the Game:**
     * Continue matching pairs until all the cards are face-up.
     * Try to finish with the fewest moves to achieve a new high score!
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -125,6 +150,8 @@ You must have [Node.js](https://nodejs.org/en/) (v18.17 or later) installed.
     *(or `pnpm run dev` / `yarn dev`)*
 
 5.  Open [http://localhost:5173](http://localhost:5173) (for Vite) with your browser to see the result.
+
+---
 
 ## 📝 License
 
