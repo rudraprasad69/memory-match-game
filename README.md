@@ -45,11 +45,13 @@ Play the live version of the game here:
     <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
 
+
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="filter: brightness(0) invert(1);" />
     <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
+
 
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
@@ -57,11 +59,13 @@ Play the live version of the game here:
     <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
 
+
   <!-- Framer Motion -->
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="50" height="50" style="filter: invert(1);" />
     <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
+
 
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: left;">
