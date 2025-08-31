@@ -1,8 +1,7 @@
 # Memory Match: A Card Matching Game
 
-<p align="center">
-  <img src="path/to/your/memory-match-banner.png" alt="Memory Match Game Banner" width="800">
-</p>
+<img width="953" height="540" alt="{0164A8BD-75FF-4260-A276-CF4A5CBA7532}" src="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064" />
+
 
 <p align="center">
   <img src="https://img.shields.io/github/license/rudraprasad69/Store-Rating-Platform" alt="License">
