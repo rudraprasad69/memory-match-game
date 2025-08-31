@@ -34,13 +34,6 @@ Play the live version of the game here:
 
 <p align="center">➡️ Swipe to see more</p>
 
-
-
-
-
-
-
-
 ---
 
 ## ✨ Features
