@@ -20,46 +20,20 @@ Play the live version of the game here:
 ---
 
 ## 📸 Preview  
+## 📸 Preview  
 
-<div align="center">
-  <div style="max-width: 900px; border: 2px solid #333; border-radius: 10px; padding: 10px; position: relative; overflow: hidden;">
-    
-    <!-- Slides -->
-    <div class="slides" style="display: flex; transition: transform 0.5s ease-in-out; width: 500%;">
-      <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="900" style="flex: 0 0 100%;" />
-      <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="900" style="flex: 0 0 100%;" />
-      <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="900" style="flex: 0 0 100%;" />
-      <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="900" style="flex: 0 0 100%;" />
-      <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="900" style="flex: 0 0 100%;" />
-    </div>
+<div align="center" style="border: 2px solid #333; border-radius: 10px; padding: 10px; max-width: 900px; overflow-x: auto; white-space: nowrap;">
 
-    <!-- Navigation buttons -->
-    <button onclick="prevSlide()" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: #333; color: white; border: none; border-radius: 50%; padding: 10px; cursor: pointer;">⬅️</button>
-    <button onclick="nextSlide()" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: #333; color: white; border: none; border-radius: 50%; padding: 10px; cursor: pointer;">➡️</button>
+  <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="900" style="margin: 10px; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="900" style="margin: 10px; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="900" style="margin: 10px; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="900" style="margin: 10px; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="900" style="margin: 10px; border-radius: 8px;" />
 
-  </div>
 </div>
 
-<script>
-  let currentIndex = 0;
-  const slides = document.querySelector(".slides");
-  const totalSlides = slides.children.length;
+<p align="center">➡️ Swipe to see more</p>
 
-  function showSlide(index) {
-    if (index < 0) index = totalSlides - 1;
-    if (index >= totalSlides) index = 0;
-    currentIndex = index;
-    slides.style.transform = `translateX(-${index * 100}%)`;
-  }
-
-  function nextSlide() {
-    showSlide(currentIndex + 1);
-  }
-
-  function prevSlide() {
-    showSlide(currentIndex - 1);
-  }
-</script>
 
 
 
