@@ -21,31 +21,25 @@ Play the live version of the game here:
   
 ## 📸 Preview  
 
-<div align="center" style="display: flex; gap: 15px; overflow-x: auto; padding: 10px; max-width: 100%;">
-
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 10px; flex: 0 0 auto; background: #111;">
-    <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="300" />
-  </div>
-
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 10px; flex: 0 0 auto; background: #111;">
-    <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="300" />
-  </div>
-
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 10px; flex: 0 0 auto; background: #111;">
-    <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="300" />
-  </div>
-
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 10px; flex: 0 0 auto; background: #111;">
-    <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="300" />
-  </div>
-
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 10px; flex: 0 0 auto; background: #111;">
-    <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="300" />
-  </div>
-
-</div>
-
-<p align="center">➡️ Scroll right to see more images</p>
+<table>
+  <tr>
+    <td style="border: 2px solid #333; border-radius: 10px; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8" width="300" />
+    </td>
+    <td style="border: 2px solid #333; border-radius: 10px; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de" width="300" />
+    </td>
+    <td style="border: 2px solid #333; border-radius: 10px; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/d502c3ae-e5a0-48b9-8ba8-8ba5f94de995" width="300" />
+    </td>
+    <td style="border: 2px solid #333; border-radius: 10px; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/f1fe5ffa-df25-4a82-bcae-63ca8513a1d6" width="300" />
+    </td>
+    <td style="border: 2px solid #333; border-radius: 10px; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/2b396474-8661-41c9-9a43-cd2bb61c9c0a" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
