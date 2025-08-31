@@ -31,7 +31,6 @@ Play the live version of the game here:
 
 </div>
 
-<p align="center">➡️ Scroll to see more</p>
 
 ---
 
