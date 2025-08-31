@@ -41,7 +41,7 @@ Play the live version of the game here:
       <img src="https://github.com/user-attachments/assets/1b6b151d-540f-4888-a0e7-3f0e3bf0e794" width="900" />
     </div>
 
-    <!-- Navigation buttons -->
+    Navigation buttons
     <p>
       <a href="#slide1">⬅️</a> 
       <a href="#slide2">➡️</a>
