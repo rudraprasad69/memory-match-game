@@ -19,25 +19,38 @@ Play the live version of the game here:
 
 ---
 
-## 📸 Preview
+## 📸 Preview  
 
-<div align="center" style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 80%; max-width: 800px;">
+<div align="center">
 
-  <!-- Image Container -->
-  <img src="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064" alt="Preview 1" width="90%" id="preview-img">
+  <!-- Carousel container -->
+  <div style="max-width: 900px; border: 2px solid #333; border-radius: 10px; padding: 10px; overflow: hidden;">
 
-  <br><br>
+    <!-- Slides -->
+    <div id="slide1">
+      <img src="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064" width="900" />
+    </div>
+    <div id="slide2" style="display:none;">
+      <img src="https://github.com/user-attachments/assets/5c079264-47b0-4c49-a738-432e1fde6b85" width="900" />
+    </div>
+    <div id="slide3" style="display:none;">
+      <img src="https://github.com/user-attachments/assets/98e5285e-e103-41df-b44c-e6a78891af91" width="900" />
+    </div>
+    <div id="slide4" style="display:none;">
+      <img src="https://github.com/user-attachments/assets/1b6b151d-540f-4888-a0e7-3f0e3bf0e794" width="900" />
+    </div>
 
-  <!-- Navigation -->
-  <p>
-    <a href="https://github.com/user-attachments/assets/32dbaf46-b72a-4574-8512-27d80817d064">
-      <b>➡️ Next</b>
-    </a>
-  </p>
+    <!-- Navigation buttons -->
+    <p>
+      <a href="#slide1">⬅️</a> 
+      <a href="#slide2">➡️</a>
+      <a href="#slide3">➡️</a>
+      <a href="#slide4">➡️</a>
+    </p>
+  </div>
 
 </div>
 
-*(You can click ➡️ to navigate through more screenshots in sequence.)*
 
 ---
 
