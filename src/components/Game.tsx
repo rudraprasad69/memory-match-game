@@ -112,7 +112,7 @@ const Game: React.FC = () => {
       </div>
       {isPaused && (
         <motion.div 
-          className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-10"
+          className="fixed inset-0 bg-gray-800 bg-opacity-50 flex items-center justify-center z-10"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
         >
