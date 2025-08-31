@@ -51,7 +51,7 @@ Play the live version of the game here:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="filter: brightness(0) invert(1);" />
     <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
   </a>
-
+<br>
 
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
