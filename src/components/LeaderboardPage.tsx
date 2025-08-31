@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Leaderboard from './Leaderboard';
 
 interface Score {
@@ -8,6 +8,7 @@ interface Score {
 
 const LeaderboardPage: React.FC = () => {
   const [leaderboard, setLeaderboard] = useState<Score[]>([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const savedLeaderboard = localStorage.getItem('leaderboard');
@@ -16,8 +17,18 @@ const LeaderboardPage: React.FC = () => {
     }
   }, []);
 
+  const handleClose = () => {
+    navigate('/');
+  };
+
   return (
-    <div className="container mx-auto px-4 py-8 flex justify-center">
+    <div className="container mx-auto px-4 py-8 flex justify-center relative">
+      <button
+        onClick={handleClose}
+        className="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl font-bold"
+      >
+        ❌
+      </button>
       <Leaderboard scores={leaderboard} />
     </div>
   );
