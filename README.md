@@ -37,36 +37,33 @@ Play the live version of the game here:
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="left" style="display: flex; flex-direction: column; gap: 10px;">
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-
 
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="filter: brightness(0) invert(1);" />
   </a>
 
-
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
   </a>
-
 
   <!-- Framer Motion -->
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="40" height="40" style="filter: invert(1);" />
   </a>
 
-
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
 </p>
+
 
 
 -   **Core:** React (via Vite or Next.js) 
