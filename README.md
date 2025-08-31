@@ -43,20 +43,24 @@ Play the live version of the game here:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
+
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="filter: brightness(0) invert(1);" />
   </a>
+
 
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
   </a>
 
+
   <!-- Framer Motion -->
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="40" height="40" style="filter: invert(1);" />
   </a>
+
 
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
