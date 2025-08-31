@@ -20,10 +20,10 @@ Play the live version of the game here:
 ## ✨ Features
 
 ### Gameplay Loop
--   [cite_start]**Clear Start & Endpoints:** The game features a distinct starting point and explicit conditions for both victory and defeat. [cite: 3]
--   [cite_start]**Restart Functionality:** A restart button is available, allowing players to quickly begin a new game at any time. [cite: 3]
--   [cite_start]**Score Tracking:** A visible score display enables players to track their progress and performance. [cite: 3]
--   [cite_start]**Dynamic Difficulty:** The game's difficulty dynamically adjusts and increases as the player successfully advances. [cite: 3]
+-   **Clear Start & Endpoints:** The game features a distinct starting point and explicit conditions for both victory and defeat.
+-   **Restart Functionality:** A restart button is available, allowing players to quickly begin a new game at any time.
+-   **Score Tracking:** A visible score display enables players to track their progress and performance.
+-   **Dynamic Difficulty:** The game's difficulty dynamically adjusts and increases as the player successfully advances.
 
 ### User Interface (UI)
 -   [cite_start]**Clean & Responsive Design:** The UI is clean, uncluttered, and fully responsive, adapting seamlessly to various screen sizes. [cite: 4]
