@@ -124,7 +124,7 @@ You must have [Node.js](https://nodejs.org/en/) (v18.17 or later) installed.
     ```
     *(or `pnpm run dev` / `yarn dev`)*
 
-5.  Open [http://localhost:5173](http://localhost:5173) (for Vite) or [http://localhost:3000](http://localhost:3000) (for Next.js) with your browser to see the result.
+5.  Open [http://localhost:5173](http://localhost:5173) (for Vite) with your browser to see the result.
 
 ## 📝 License
 
