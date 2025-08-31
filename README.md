@@ -20,68 +20,10 @@ Play the live version of the game here:
 ---
 
 ## 📸 Preview  
+![WhatsApp Image 2025-08-30 at 18 51 33_ca61629f](https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8)
+<img width="951" height="431" alt="{8B5129BA-B2ED-4348-A76E-35CF6AF5B117}" src="https://github.com/user-attachments/assets/0837935c-9511-4f8d-b198-96a704ec9000" />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>File Upload with Preview</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .container {
-      max-width: 400px;
-      margin: auto;
-    }
-    .preview {
-      margin-top: 15px;
-    }
-    .preview img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin-top: 10px;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      padding: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h2>Upload File with Preview</h2>
-    <input type="file" id="fileInput" accept="image/*">
-    <div class="preview" id="preview">
-      <p>No file selected</p>
-    </div>
-  </div>
 
-  <script>
-    const fileInput = document.getElementById("fileInput");
-    const preview = document.getElementById("preview");
-
-    fileInput.addEventListener("change", function () {
-      preview.innerHTML = ""; 
-
-      const file = fileInput.files[0];
-      if (file) {
-        const reader = new FileReader();
-        reader.onload = function (e) {
-          const img = document.createElement("img");
-          img.src = e.target.result;
-          preview.appendChild(img);
-        };
-        reader.readAsDataURL(file);
-      } else {
-        preview.innerHTML = "<p>No file selected</p>";
-      }
-    });
-  </script>
-</body>
-</html>
 
 ---
 
