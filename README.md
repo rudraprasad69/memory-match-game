@@ -47,7 +47,6 @@ Play the live version of the game here:
 
 ### Gameplay Loop
 -   **Clear Start & Endpoints:** The game features a distinct starting point and explicit conditions for both victory and defeat.
--   **Restart Functionality:** A restart button is available, allowing players to quickly begin a new game at any time.
 -   **Score Tracking:** A visible score display enables players to track their progress and performance.
 -   **Dynamic Difficulty:** The game's difficulty dynamically adjusts and increases as the player successfully advances.
 
