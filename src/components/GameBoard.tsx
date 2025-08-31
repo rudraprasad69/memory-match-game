@@ -86,7 +86,7 @@ const GameBoard: React.FC<GameBoardProps> = ({ level, onGameWin, setTries, isPau
 
   return (
     <div className="bg-gray-800 p-4 rounded-3xl shadow-[0_0_30px_10px_rgba(168,85,247,0.5)]">
-      <div className="grid gap-2" style={{ gridTemplateColumns: `repeat(${numCols}, minmax(0, 1fr))` }}>
+      <div className="grid gap-1 sm:gap-2" style={{ gridTemplateColumns: `repeat(${numCols}, minmax(0, 1fr))` }}>
         {cards.map((card, index) => (
           <Card
             key={index}

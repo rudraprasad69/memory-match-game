@@ -10,7 +10,7 @@ interface CardProps {
 const Card: React.FC<CardProps> = ({ value, isFlipped, onClick }) => {
   return (
     <motion.div
-      className="w-24 h-36 rounded-lg shadow-lg cursor-pointer relative"
+      className="w-20 h-28 sm:w-24 sm:h-36 rounded-lg shadow-lg cursor-pointer relative"
       onClick={onClick}
       initial={false}
       animate={{ rotateY: isFlipped ? 180 : 0 }}
@@ -19,13 +19,13 @@ const Card: React.FC<CardProps> = ({ value, isFlipped, onClick }) => {
       whileHover={{ scale: 1.05, boxShadow: "0px 0px 20px rgba(255, 255, 255, 0.5)" }}
     >
       <div className="absolute w-full h-full [backface-visibility:hidden] bg-gray-400 flex items-center justify-center rounded-lg">
-        <span className="text-4xl">?</span>
+        <span className="text-3xl sm:text-4xl">?</span>
       </div>
       <div
         className="absolute w-full h-full [backface-visibility:hidden] bg-white text-black flex items-center justify-center rounded-lg"
         style={{ transform: 'rotateY(180deg)' }}
       >
-        <span className="text-4xl">{value}</span>
+        <span className="text-3xl sm:text-4xl">{value}</span>
       </div>
     </motion.div>
   );

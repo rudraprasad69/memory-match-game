@@ -87,14 +87,14 @@ const Game: React.FC = () => {
       <audio ref={flipSoundRef} src="/flip.mp3" />
       <audio ref={matchSoundRef} src="/match.mp3" />
       <motion.h1 
-        className="text-5xl font-bold mb-8 text-shadow-lg text-center"
+        className="text-4xl sm:text-5xl font-bold mb-8 text-shadow-lg text-center"
         initial={{ y: -100, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5 }}
       >
         Memory Match
       </motion.h1>
-      <div className="flex gap-8 mb-8 text-xl justify-center">
+      <div className="flex flex-col md:flex-row gap-4 md:gap-8 mb-8 text-xl justify-center">
         <p>Level: <span className="font-bold">{level}</span></p>
         <p>Tries: <span className="font-bold">{tries}</span></p>
         <p>Max Tries: <span className="font-bold">{maxTries}</span></p>
