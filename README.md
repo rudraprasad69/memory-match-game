@@ -21,7 +21,8 @@ Play the live version of the game here:
 
 ## 📸 Preview  
 ![WhatsApp Image 2025-08-30 at 18 51 33_ca61629f](https://github.com/user-attachments/assets/3f43ba54-3ba1-4934-bcac-07f4854ac7b8)
-<img width="951" height="431" alt="{8B5129BA-B2ED-4348-A76E-35CF6AF5B117}" src="https://github.com/user-attachments/assets/0837935c-9511-4f8d-b198-96a704ec9000" />
+![WhatsApp Image 2025-08-30 at 18 51 14_9fb68435](https://github.com/user-attachments/assets/aafd6bd3-7211-4113-b7fd-e1d33601e5de)
+
 
 
 
