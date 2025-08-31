@@ -75,9 +75,7 @@ Play the live version of the game here:
   </a>
 
 </div>
-
-
-
+<br>
 
 -   **Core:** React (via Vite or Next.js) 
 -   **Styling:** Tailwind CSS 
