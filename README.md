@@ -26,10 +26,8 @@ Play the live version of the game here:
   <!-- Carousel container -->
   <div style="max-width: 900px; border: 2px solid #333; border-radius: 10px; padding: 10px; overflow: hidden;">
 
-    
     <div id="slide1">
-      ![WhatsApp Image 2025-08-30 at 18 51 33_263b941a](https://github.com/user-attachments/assets/438d4f94-0f57-4321-a693-77f2bb844229)
-
+      <img src="https://github.com/user-attachments/assets/438d4f94-0f57-4321-a693-77f2bb844229" width="900" />
     </div>
     <div id="slide2" style="display:none;">
       <img src="https://github.com/user-attachments/assets/5c079264-47b0-4c49-a738-432e1fde6b85" width="900" />
@@ -41,7 +39,6 @@ Play the live version of the game here:
       <img src="https://github.com/user-attachments/assets/1b6b151d-540f-4888-a0e7-3f0e3bf0e794" width="900" />
     </div>
 
-    Navigation buttons
     <p>
       <a href="#slide1">⬅️</a> 
       <a href="#slide2">➡️</a>
@@ -51,7 +48,6 @@ Play the live version of the game here:
   </div>
 
 </div>
-
 
 ---
 
