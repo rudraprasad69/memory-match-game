@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/issues/rudraprasad69/Store-Rating-Platform" alt="Issues">
 </p>
 
-> A traditional memory game involving playing cards. The objective is to locate pairs of cards that have matching images or symbols—built with a modern frontend stack including React, Tailwind CSS, and Framer Motion for smooth animations.
+> A traditional memory game involving playing cards. The objective is to locate pairs of cards that have matching images or symbols, built with a modern frontend stack that includes React, Tailwind CSS, and Framer Motion for smooth animations.
 
 ## 🚀 Live Demo
 
@@ -46,13 +46,6 @@ Play the live version of the game here:
   </a>
   <br>
 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="filter: brightness(0) invert(1);" />
-    <div style="color: white; font-size: 14px; margin-top: 5px;"></div>
-  </a>
-  <br>
-
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="text-align: left;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
@@ -77,7 +70,7 @@ Play the live version of the game here:
 </div>
 <br>
 
--   **Core:** React (via Vite or Next.js) 
+-   **Core:** React (via Vite) 
 -   **Styling:** Tailwind CSS 
 -   **Animations:** Framer Motion or GSAP 
 
