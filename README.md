@@ -48,7 +48,6 @@ Play the live version of the game here:
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
 
-  
  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framermotion" width="40" height="40" style="filter: invert(1);" />
 </a>
