@@ -15,7 +15,7 @@
 ## 🚀 Live Demo
 
 Play the live version of the game here:
-memory-match-app.netlify.app/
+[memory-match-app.netlify.app/](https://memory-match-app.netlify.app/)
 
 ## ✨ Features
 
